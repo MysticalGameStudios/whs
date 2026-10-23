@@ -1,2 +1,0 @@
-window.WHS_SCHOOL_TOKEN = "ed2573fe4bc46f280ae62d16a463b287b732a9238512e26fd6434b2a9778ed36";
-window.WHS_CK_ENV = "development";
